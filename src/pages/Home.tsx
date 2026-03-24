@@ -3,7 +3,7 @@ export function Home() {
     <div className="page">
       <div className="hero">
         <div className="dot" />
-        <h1 className="name">Martin Tuovinen</h1>
+        <h1 className="name">Martin Heslop</h1>
         <p className="handle">blockdancer</p>
       </div>
 
