@@ -53,7 +53,7 @@ export function Home() {
           <span className="link-sub">fi · en</span>
           <span className="link-arrow">→</span>
         </a>
-        <a href="https://parisuhdetango.fi" target="_blank" rel="noreferrer" className="link-row">
+        <a href="https://parisuhdetango.xyz" target="_blank" rel="noreferrer" className="link-row">
           <span className="link-label">parisuhdetango</span>
           <span className="link-sub">relationship tango · fi · en</span>
           <span className="link-arrow">→</span>
